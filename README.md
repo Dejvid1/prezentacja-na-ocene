@@ -1,2 +1,2 @@
 # prezentacja-na-ocene
-prezentacja na ocene na zajęcia labolatoryjne z technologii informacyjnych
+prezentacja na ocene na zajęcia laboratoryjne z technologii informacyjnych
